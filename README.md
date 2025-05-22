@@ -2,7 +2,8 @@
 
 # 📕 Código 404: A Verdade Não Foi Encontrada
 
-![Capa do eBook](capa-ebook.png)
+![Capa do eBook](assets/capa-ebook.png)
+
 
 
 **Autora:** Thamires Barbosa  
