@@ -5,6 +5,7 @@
 
 <img src="assets/capa-ebook.png" alt="Capa do eBook" width="300"/>
 
+[Baixe o eBook completo aqui (PDF)](Codigo_404_Thamires_Barbosa_eBook.pdf)
 
 
 **Autora:** Thamires Barbosa  
