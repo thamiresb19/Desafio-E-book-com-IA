@@ -58,9 +58,9 @@ O eBook está dividido em capítulos curtos, com cerca de 5 páginas de conteúd
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
 
-ChatGPT: geração da narrativa e conteúdo.
-Canva: design gráfico da capa do eBook com elementos visuais inspirados no universo hacker.
-Pinterest: referência visual para ambientação, paleta de cores e estilo da estética cyberpunk/distópica.
+- ChatGPT: geração da narrativa e conteúdo.  
+- Canva: design gráfico da capa do eBook com elementos visuais inspirados no universo hacker.  
+- Pinterest: referência visual para ambientação, paleta de cores e estilo da estética cyberpunk/distópica.
 
 ---
 
