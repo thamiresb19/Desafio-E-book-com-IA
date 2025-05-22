@@ -53,7 +53,8 @@ O eBook está dividido em capítulos curtos, com cerca de 5 páginas de conteúd
 
 - `Codigo_404_Thamires_Barbosa_eBook.pdf`: eBook completo em PDF.
 - `capa-ebook.png`: arte da capa, criada com auxílio de IA.
-**[Baixe o eBook completo aqui (PDF)](Codigo_404_Thamires_Barbosa_eBook.pdf)**
+**[Baixe o eBook completo aqui (PDF)]
+(Codigo_404_Thamires_Barbosa_eBook.pdf)**
 ---
 
 ## 🚀 Tecnologias e Ferramentas Utilizadas
