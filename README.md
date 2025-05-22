@@ -2,7 +2,7 @@
 
 # 📕 Código 404: A Verdade Não Foi Encontrada
 
-![Capa do eBook](assets/capa-ebook.png)
+
 <img src="assets/capa-ebook.png" alt="Capa do eBook" width="300"/>
 
 
